@@ -6,6 +6,8 @@ AWS Lambda and Amazon API Gateway.
 
 This is a sample
 
+Version 2 of sample
+
 What's Here
 -----------
 
